@@ -1,21 +1,30 @@
-# Beyond Dental Website
+# 🦷 Beyond Dental Website
 
-Responsive static website for Beyond Dental Care.
+A modern and responsive dental clinic website developed for **Beyond Dental Care**. The website showcases clinic services, patient testimonials, and contact information through a clean and user-friendly interface.
 
-## Project Type
-HTML, CSS, JavaScript static website
+## 🌐 Live Demo
 
-## Main File
-- `index.html`
+(https://beyond-dental-website.vercel.app/)
 
-## Features
-- Premium dental clinic landing page
+## ✨ Features
+
 - Responsive design
-- Hero section, services, gallery, testimonials, contact
-- WhatsApp consultation CTA
+- Modern landing page
+- Services section
+- Patient testimonials
+- Contact section
+- Clean and user-friendly interface
 
-## Deployment
-This site is deployed via Vercel.
+## 🛠 Tech Stack
 
-## Author
-Created and deployed by Krishna
+- HTML5
+- CSS3
+- JavaScript
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/gitkrishna18/beyond-dental-website.git
+```
+
+Open `index.html` in your browser.
