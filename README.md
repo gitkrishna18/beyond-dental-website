@@ -1,5 +1,9 @@
 # 🦷 Beyond Dental Website
 
+![Website Preview](preview1.png)
+
+A modern and responsive dental clinic website developed for Beyond Dental Care...
+
 A modern and responsive dental clinic website developed for **Beyond Dental Care**. The website showcases clinic services, patient testimonials, and contact information through a clean and user-friendly interface.
 
 ## 🌐 Live Demo
