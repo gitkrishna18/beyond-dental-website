@@ -1,5 +1,7 @@
 # 🦷 Beyond Dental Website
 
+## 📸 Preview
+
 ![Website Preview](preview1.png)
 
 A modern and responsive dental clinic website developed for Beyond Dental Care...
@@ -12,18 +14,19 @@ A modern and responsive dental clinic website developed for **Beyond Dental Care
 
 ## ✨ Features
 
-- Responsive design
-- Modern landing page
-- Services section
+- Responsive landing page for all screen sizes
+- Hero section with clear call-to-action
+- Services and treatment showcase
 - Patient testimonials
-- Contact section
-- Clean and user-friendly interface
+- Contact and consultation section
+- Smooth scrolling navigation
 
 ## 🛠 Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
+- Vercel (Deployment)
 
 ## 🚀 Run Locally
 
